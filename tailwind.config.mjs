@@ -5,7 +5,8 @@ export default {
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
-  theme: {
+
+  darkMode: "class",theme: {
     extend: {
       colors: {
         background: "var(--background)",
