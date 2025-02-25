@@ -28,4 +28,4 @@ The **AI-Powered Job Match Dashboard** is a web application that helps users fin
    cd job-match-dashboard
    ```
 
-devloped by Oluwakemi Awode 🚀
+developed by Oluwakemi Awode 🚀
